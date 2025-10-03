@@ -1,3 +1,0 @@
-/home/joshua/Programmieren/C++/enjima/cmake-build-debug/CMakeFiles/enjima.dir
-/home/joshua/Programmieren/C++/enjima/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/joshua/Programmieren/C++/enjima/cmake-build-debug/CMakeFiles/rebuild_cache.dir
